@@ -4,7 +4,7 @@ An interactive Power BI dashboard project for analyzing McDonald's sales perform
 
 ## 📊 Project Overview
 
-This Power BI project visualizes and analyzes McDonald’s sales data to uncover actionable insights for business growth and performance optimization.
+This MS Excel project visualizes and analyzes McDonald’s sales data to uncover actionable insights for business growth and performance optimization.
 
 ### ✅ Key Features
 
@@ -30,7 +30,7 @@ This Power BI project visualizes and analyzes McDonald’s sales data to uncover
 
 ## 📈 Tools & Technologies
 
-- **Power BI**
+- ** MS Excel**
 - **DAX (Data Analysis Expressions)**
 - **Data Modeling**
 - **Interactive Dashboards**
