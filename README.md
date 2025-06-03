@@ -1,5 +1,3 @@
-# McDonald-s-sales-interactive-and-dynamic-dashboard-
-
 # 🍔 McDonald's Sales Interactive & Dynamic Dashboard
 
 An interactive Power BI dashboard project for analyzing McDonald's sales performance. This dashboard presents key insights on total revenue, order trends, top-selling items, and customer preferences across different categories.
